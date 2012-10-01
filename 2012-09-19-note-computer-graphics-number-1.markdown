@@ -4,7 +4,7 @@ title: "Note: Computer Graphics #1"
 date: 2012-09-19 13:11
 comments: true
 categories: 
-- Course Notes
+- Lecture Notes
 ---
 
 * Shading 是指在面與線的基礎上增加了光線與材質的交互作用層

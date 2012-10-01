@@ -4,7 +4,7 @@ title: "Note: Compiler Design #2"
 date: 2012-09-25 21:57
 comments: true
 categories: 
-- Course Note
+- Lecture Notes
 ---
 
 **原稿遺失**，補記一些重點
